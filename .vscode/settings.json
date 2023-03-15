@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "library"
+    ],
+    "cSpell.enableFiletypes": [
+        "markdown"
+    ],
+    "cSpell.enabled": true,
+    "cSpell.words": [
+        "papplet"
+    ]
+}
