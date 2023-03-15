@@ -1,4 +1,4 @@
-# ICRA 2022 Roboethics Competition Hackathon 
+# ICRA 2023 Roboethics Competition Hackathon 
 
 
 ## Relevant Files:
